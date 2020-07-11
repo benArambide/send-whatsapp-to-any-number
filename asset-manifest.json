@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/send-whatsapp-to-any-number/static/css/main.b63ff257.chunk.css",
+    "main.js": "/send-whatsapp-to-any-number/static/js/main.bba91e7e.chunk.js",
+    "main.js.map": "/send-whatsapp-to-any-number/static/js/main.bba91e7e.chunk.js.map",
+    "runtime-main.js": "/send-whatsapp-to-any-number/static/js/runtime-main.3ba2dc26.js",
+    "runtime-main.js.map": "/send-whatsapp-to-any-number/static/js/runtime-main.3ba2dc26.js.map",
+    "static/css/2.9edc93b8.chunk.css": "/send-whatsapp-to-any-number/static/css/2.9edc93b8.chunk.css",
+    "static/js/2.a7746d3a.chunk.js": "/send-whatsapp-to-any-number/static/js/2.a7746d3a.chunk.js",
+    "static/js/2.a7746d3a.chunk.js.map": "/send-whatsapp-to-any-number/static/js/2.a7746d3a.chunk.js.map",
+    "index.html": "/send-whatsapp-to-any-number/index.html",
+    "precache-manifest.34892c005a62cc68c053cd3350b86d7e.js": "/send-whatsapp-to-any-number/precache-manifest.34892c005a62cc68c053cd3350b86d7e.js",
+    "service-worker.js": "/send-whatsapp-to-any-number/service-worker.js",
+    "static/css/2.9edc93b8.chunk.css.map": "/send-whatsapp-to-any-number/static/css/2.9edc93b8.chunk.css.map",
+    "static/css/main.b63ff257.chunk.css.map": "/send-whatsapp-to-any-number/static/css/main.b63ff257.chunk.css.map",
+    "static/js/2.a7746d3a.chunk.js.LICENSE.txt": "/send-whatsapp-to-any-number/static/js/2.a7746d3a.chunk.js.LICENSE.txt",
+    "static/media/vm-thumb-android-4.png": "/send-whatsapp-to-any-number/static/media/vm-thumb-android-4.b544a337.png",
+    "static/media/whatsapp-link-logo--full.svg": "/send-whatsapp-to-any-number/static/media/whatsapp-link-logo--full.4d3d94d1.svg",
+    "static/media/index.css": "/send-whatsapp-to-any-number/static/media/wslg-chat-bg.4352e3d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ba2dc26.js",
+    "static/css/2.9edc93b8.chunk.css",
+    "static/js/2.a7746d3a.chunk.js",
+    "static/css/main.b63ff257.chunk.css",
+    "static/js/main.bba91e7e.chunk.js"
+  ]
+}
