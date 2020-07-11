@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/send-whatsapp-to-any-number/precache-manifest.34892c005a62cc68c053cd3350b86d7e.js"
+  "/send-whatsapp-to-any-number/precache-manifest.be72d9997d5eb0acbcf58be6e0e40695.js"
 );
 
 self.addEventListener('message', (event) => {

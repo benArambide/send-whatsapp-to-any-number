@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9de50b7d5844d33912033c8e80c4de8b",
+    "revision": "fb7ce087e9dad37a2d2bd521c4b679e4",
     "url": "/send-whatsapp-to-any-number/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/send-whatsapp-to-any-number/static/css/2.9edc93b8.chunk.css"
   },
   {
-    "revision": "5964f1b7de0a781b12cc",
+    "revision": "71e649dbf31c6b344d8f",
     "url": "/send-whatsapp-to-any-number/static/css/main.b63ff257.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/send-whatsapp-to-any-number/static/js/2.a7746d3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5964f1b7de0a781b12cc",
-    "url": "/send-whatsapp-to-any-number/static/js/main.bba91e7e.chunk.js"
+    "revision": "71e649dbf31c6b344d8f",
+    "url": "/send-whatsapp-to-any-number/static/js/main.6143fbd6.chunk.js"
   },
   {
     "revision": "21081b96868b68e1c76d",

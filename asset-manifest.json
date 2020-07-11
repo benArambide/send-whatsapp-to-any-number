@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/send-whatsapp-to-any-number/static/css/main.b63ff257.chunk.css",
-    "main.js": "/send-whatsapp-to-any-number/static/js/main.bba91e7e.chunk.js",
-    "main.js.map": "/send-whatsapp-to-any-number/static/js/main.bba91e7e.chunk.js.map",
+    "main.js": "/send-whatsapp-to-any-number/static/js/main.6143fbd6.chunk.js",
+    "main.js.map": "/send-whatsapp-to-any-number/static/js/main.6143fbd6.chunk.js.map",
     "runtime-main.js": "/send-whatsapp-to-any-number/static/js/runtime-main.3ba2dc26.js",
     "runtime-main.js.map": "/send-whatsapp-to-any-number/static/js/runtime-main.3ba2dc26.js.map",
     "static/css/2.9edc93b8.chunk.css": "/send-whatsapp-to-any-number/static/css/2.9edc93b8.chunk.css",
     "static/js/2.a7746d3a.chunk.js": "/send-whatsapp-to-any-number/static/js/2.a7746d3a.chunk.js",
     "static/js/2.a7746d3a.chunk.js.map": "/send-whatsapp-to-any-number/static/js/2.a7746d3a.chunk.js.map",
     "index.html": "/send-whatsapp-to-any-number/index.html",
-    "precache-manifest.34892c005a62cc68c053cd3350b86d7e.js": "/send-whatsapp-to-any-number/precache-manifest.34892c005a62cc68c053cd3350b86d7e.js",
+    "precache-manifest.be72d9997d5eb0acbcf58be6e0e40695.js": "/send-whatsapp-to-any-number/precache-manifest.be72d9997d5eb0acbcf58be6e0e40695.js",
     "service-worker.js": "/send-whatsapp-to-any-number/service-worker.js",
     "static/css/2.9edc93b8.chunk.css.map": "/send-whatsapp-to-any-number/static/css/2.9edc93b8.chunk.css.map",
     "static/css/main.b63ff257.chunk.css.map": "/send-whatsapp-to-any-number/static/css/main.b63ff257.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.9edc93b8.chunk.css",
     "static/js/2.a7746d3a.chunk.js",
     "static/css/main.b63ff257.chunk.css",
-    "static/js/main.bba91e7e.chunk.js"
+    "static/js/main.6143fbd6.chunk.js"
   ]
 }
