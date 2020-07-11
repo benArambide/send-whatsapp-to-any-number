@@ -6,7 +6,7 @@ import './index.css'
 
 function App() {
   return (
-    <div className="App container-xl">
+    <div className="App">
       <Page />
     </div>
   );
